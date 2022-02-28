@@ -18,3 +18,10 @@ output: html_document
 ### 课程资料  
 以下，如需提取码，均为1234<br>
 **PPT**：[链接](https://pan.baidu.com/s/1UCFAMWWqP5psYuU50skd_A)<br>
+**修订PPT及补充材料**（不定期更新）：[修订PPT](https://pan.baidu.com/s/1SAt1Oych3yP8SBtI689DWA)&emsp;[补充材料](https://pan.baidu.com/s/1ESOVI8eW9HprEumT3mqULQ)<br>
+
+### 作业  
+**第一次作业**  
+小组完成，小组不多于4人，第4周课上交纸质版。题目：（1）简述二十年前的食品安全监管体系。当时食品安全监管是地方政府还是中央政府的事权？现在呢？
+（2）食品安全监管事权的现实划分对食品安全问题有何影响？
+（3）当前食品安全监管体制还可以如何改进？
